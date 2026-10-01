@@ -27,20 +27,35 @@ In this project, users are represented as nodes and their connections are repres
 ## 4. Project Structure
 
 Social-Network-Community-Detection/
+
 │
+
 ├── data/
+
 ├── results/
+
 │   └── community_graph.png
+
 ├── src/
+
 │   ├── main.py
+
 │   ├── graph.py
+
 │   ├── community.py
+
 │   ├── visualization.py
+
 │   ├── parallel.py
+
 │   └── __init__.py
+
 ├── tests/
+
 ├── venv/
+
 ├── README.md
+
 └── .gitignore
 
 ## 5. Working
